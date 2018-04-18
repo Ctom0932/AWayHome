@@ -5,7 +5,7 @@
 <a href = "https//www.fld.uci.edu/-gohlke/pythonlibs/#pygame"PyGame</a>
 <a href "https://www.youtube.com/watch?v=_GikMdhAhv0&t=58s">How To Install</a><br>
 
-<img src="<img src="https://yt3.ggpht.com/a-/AJLlDp3ncJ67a3BLVvU-Xa98oZMCYS6sKFPi4hkxBA=s88-mo-c-c0xffffffff-rj-k-no">">
+<img src="file:///C:/Users/ctom0932/Documents/A%20Way%20Home/Tittle%20Screen.png">
 
 <p>
   Paragraph 1
