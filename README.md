@@ -5,8 +5,8 @@
 <a href = "https//www.fld.uci.edu/-gohlke/pythonlibs/#pygame"PyGame</a>
 <a href "https://www.youtube.com/watch?v=_GikMdhAhv0&t=58s">How To Install</a><br>
 
-<img src="file:///C:/Users/ctom0932/Documents/A%20Way%20Home/Tittle%20Screen.png">
-<img src="file:///C:/Users/ctom0932/Documents/A%20Way%20Home/Story%20Final.png">
+<img src="file:///C:/Users/ctom0932/Documents/A%20Way%20Home/Tittle%20Screen.png
+<img src="file:///C:/Users/ctom0932/Documents/A%20Way%20Home/Story%20Final.png
 <p>
   Paragraph 1
   There is a scientist trying to find a valuable gem. He learns that it was last seen in a old mine shaft. While exploring the mine he sees the gem in the distance. When he touches the gem, it lead him to another dimension where the roles of animals and humans are switched. While he is exploring the world, he finds a blue cat, who acts like a human, named Happy. Happy told him that there is a door that can bring him home but it is guarded by 10 guardian cats.But to open to the door he has to have 3 different types of keys. He also have to find the correct key combination.  
