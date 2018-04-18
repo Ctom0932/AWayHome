@@ -6,7 +6,7 @@
 <a href "https://www.youtube.com/watch?v=_GikMdhAhv0&t=58s">How To Install</a><br>
 
 <img src="https://github.com/Ctom0932/AWayHome/blob/master/Story%20Final.png">
-
+<img src="https://github.com/Ctom0932/AWayHome/blob/master/Tittle%20Screen.png">
 <hr>
 <p>
   Paragraph 1
