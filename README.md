@@ -6,6 +6,9 @@
 <a href "https://www.youtube.com/watch?v=_GikMdhAhv0&t=58s">How To Install</a><br>
 
 <img src="file:///C:/Users/ctom0932/Documents/A%20Way%20Home/Tittle%20Screen.png">
+
+<hr>
+<p>
 <img src="file:///C:/Users/ctom0932/Documents/A%20Way%20Home/Story%20Final.png">
 
 <hr>
